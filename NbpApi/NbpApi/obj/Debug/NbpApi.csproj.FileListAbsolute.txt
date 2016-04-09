@@ -44,3 +44,7 @@ C:\Users\student\Desktop\ppk\ppkwu1\NbpApi\NbpApi\bin\Antlr3.Runtime.pdb
 C:\Users\student\Desktop\ppk\ppkwu1\NbpApi\NbpApi\obj\Debug\NbpApi.csprojResolveAssemblyReference.cache
 C:\Users\student\Desktop\ppk\ppkwu1\NbpApi\NbpApi\obj\Debug\NbpApi.dll
 C:\Users\student\Desktop\ppk\ppkwu1\NbpApi\NbpApi\obj\Debug\NbpApi.pdb
+C:\Users\student\Desktop\ppk\ppkwu1\NbpApi\NbpApi\bin\EntityFramework.dll
+C:\Users\student\Desktop\ppk\ppkwu1\NbpApi\NbpApi\bin\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\ppk\ppkwu1\NbpApi\NbpApi\bin\EntityFramework.xml
+C:\Users\student\Desktop\ppk\ppkwu1\NbpApi\NbpApi\bin\EntityFramework.SqlServer.xml
